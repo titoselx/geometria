@@ -14,6 +14,7 @@ public class Triangulo extends FiguraGeometrica {
 	@Override
 	public double perimetro() {
 		return a + b + c;
+		
 	}
 
 	@Override

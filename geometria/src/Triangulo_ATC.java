@@ -11,6 +11,7 @@ public class Triangulo_ATC extends FiguraGeometrica_ATC {
 		this.lado3 = lado3;
 	}
 
+	
 	@Override
 	public double perimetro() {
 		return lado1 + lado2 + lado3;
